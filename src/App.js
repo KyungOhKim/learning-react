@@ -3,7 +3,12 @@ import "./App.css";
 
 function App() {
   const name = "리액트";
-  return <div class="react">{name}</div>;
+  return (
+    <>
+      <div className="react">{name}</div>
+      <input>
+    </>
+  );
 }
 
 export default App;
