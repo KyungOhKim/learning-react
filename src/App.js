@@ -1,11 +1,9 @@
 import React from "react";
-import "./App.css";
 
 function App() {
   return (
-    <div>
-      Hello <b>react</b>
-    </div>
+    <h1>리액트 안녕!</h1>
+    <h2>잘 작동하니?</h2>
   );
 }
 
