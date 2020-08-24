@@ -1,8 +1,9 @@
 import React from "react";
+import "./App.css";
 
 function App() {
-  const number = 0;
-  return number && <div>내용</div>;
+  const name = undefined;
+  return name;
 }
 
 export default App;
